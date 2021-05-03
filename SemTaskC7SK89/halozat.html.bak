@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Hálózatok tervezése&szimulációja</title>
+
+  <style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+  }
+
+  </style>
+
+ </head>
+
+
+ <body style="font-family:Tahoma">
+
+ 
+ <img src="kepek/halozat.jpg" height="400" class="center" style="float:right"></img>
+
+ <h2>Hálózatok tervezése & szimulációja</h2>
+
+ <h3><strong>Tematika:</strong></h3>
+
+ <ul>
+ 	<li>A műszaki tervezés célja</li>
+	<li>EPLAN tervezőszoftver alapjai</li>
+	<li>A tervezés szabályozási keretei</li>
+	<li>A tervezés folyamata</li>
+	<li>A tervek jellemzői</li>
+	<li>A tervezés peremfeltételei</li>
+	<li>Villamos hálózatok tervezése épületekben és telepeken</li>
+</ul>
+ 
+ </body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Vezetés-szervezés</title>
+  
+  
+  <style>
+
+  .center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  }
+
+
+  </style>
+
+ </head>
+
+
+ <body style="font-family:Tahoma">
+
+ <br><br>
+ 
+ <img src="kepek/vezetes.jpg" height="450px"  style="float:right;padding-right:300px;vertical-align:middle"></img>
+ <h2>Vezetés-szerezés</h2>
+		
+		<h3><strong>Tematika:</strong></h3>
+ 	
+	<ul>
+		<li>Divizionális szervezet</li>
+		<li>A vállalati központ feladatai</li>
+		<li>Csoportok létrehozása és vezetése</li>
+		<li>Vezetési tevékenység és vezetési funkciók</li>
+		<li><strong>TAYLORI</strong> funkcionális szervezet és irányítási mód</li>
+		<li><strong>MÁTRIX</strong> szervezet és irányítási mód</li>
+		<li>Szervezettervezési folyamat</li>
+		<li>Folyamatszervzés</li>
+		<li>Konfliktuskezelés</li>
+		<li>Vezetés-szervezés</li>
+	</ul>
+
+
+
+ </body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Autóelektronika</title>
+
+  <style>
+  .center{
+  display: block;
+  width: 50%;
+  }
+
+  </style>
+
+ </head>
+
+
+ <body style="font-family:Tahoma">
+
+ 
+ <img src="kepek/auto.jpg" height="400px" class="center" style="float:right"></img>
+
+ <h2>Autóelektronika</h2>
+
+ <h3><strong>Tematika:</strong></h3>
+
+ <ul>
+ 	<li>A gépkocsi villamos rendszere</li>
+	<li>A gépkocsi villamos rendszere</li>
+	<li>Gépjármű akkumulátorok</li>
+	<li>Generátor</li>
+	<li>Indítómoto</li>
+	<li>Villamos gyújtás</li>
+	<li>Ízzítógyertya</li>
+	<li>Benzin befecskendezés</li>
+	<li>Diesel befecskendezés</li>
+	<li>Kipufogógáz kezelés</li>
+	<li>Automata sebességváltók</li>
+	<li>Biztonsági rendszerek</li>
+	<li>Gépjármű világítás</li>
+	<li>Fedélzeti diagnosztika</li>
+	<li>Elektromágneses kompatibilitás</li>
+</ul>
+
+ 
+
+ </body>
+</html>

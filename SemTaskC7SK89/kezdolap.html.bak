@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Kezdőlap</title>
+
+  <body style="background:transparent; font-color:black; font-family:tahoma; font-size:12pt">
+
+  <br><br>
+
+  <h1><center><strong>Üdvözlöm a saját készítésű weboldalamon!</strong></center></h1>
+
+  <br><br>
+
+  <center>Ezt a weboldalt videókból látott tudásból, internetes forrásokból és a tanórán tanultakból sikerült összehozni a HTML nyelv segítségével!</center>
+
+  <br><br>
+  <img src="kepek/html.png" height="156px"  style="float:right;padding-right:150px;vertical-align:middle"></img>
+  <br><br><br><br><br><br><br><br><br>
+
+  Források:
+  <a href="https://www.youtube.com/watch?v=CtrMhe5Azys&t=11791s" target="ujablak">
+  https://www.youtube.com/watch?v=CtrMhe5Azys&t=11791s
+  </a>
+
+  <br><br>
+
+  <a href="https://www.w3schools.com/css/" target="ujablak" style="padding-left:72px">
+  https://www.w3schools.com/css/
+  </a>
+
+
+ </body>
+</html>
